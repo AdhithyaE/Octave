@@ -1,0 +1,25 @@
+1~=2
+PS1('>> ')
+disp(sprintf('2 decimals:%0.2f', a))
+format long
+_______________________________________________________________
+ v=1:0.1:2
+v =
+
+ Columns 1 through 9:
+
+    1.0000    1.1000    1.2000    1.3000    1.4000    1.5000    1.6000    1.7000    1.8000
+
+ Columns 10 and 11:
+
+    1.9000    2.0000
+
+_______________________________
+c=ones(1,3)
+w=zeros(1,3)
+w=rand(1,3)
+hist(w)
+I=eye(4)
+help rand
+vector--->length(A)
+Matrix--->size(A) /size(A,1) /size(A,2)
